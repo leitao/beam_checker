@@ -1,13 +1,13 @@
 ea557dc39eb9 arch/x86/kvm/vmx
 5ef2c5b42229 arch/x86/entry/common
-c72f706022a3 include/linux/fdtable.h
+c72f706022a3 kernel/fork
 6bb53f8b2b5b net/wireless/nl80211
 de33a3dbf88f net/mpls/af_mpls
 4cea89170c86 kernel/time/posix-timers
 0c20e971e875 arch/x86/entry/common
-2b27d964498f sound/core/seq/oss/seq_oss_event sound/core/seq/oss/seq_oss_midi sound/core/seq/oss/seq_oss_synth sound/core/seq/oss/seq_oss_synth.h
+2b27d964498f sound/core/seq/oss/seq_oss
 20e599ddd928 sound/pci/hda/hda_hwdep
-4fdd405e20ac include/sound/control.h
+4fdd405e20ac sound/pci/trident/trident_main
 751358c63a31 sound/pci/asihpi/hpimsginit sound/pci/asihpi/hpioctl
 8828a910c581 sound/drivers/opl3/opl3_synth
 43e3afe8a245 sound/pci/rme9652/rme9652
